@@ -73,9 +73,11 @@ We also develop 3DGS-based framework [4DRGS](https://github.com/ShanghaiTech-IMP
 # Citation
 If you think our work and repo are interesting, you may cite our paper.
 
-    @article{VPAL,
-      title={3D Vessel Reconstruction from Sparse-View Dynamic DSA Images via Vessel Probability Guided Attenuation Learning},
-      author={Liu, Zhentao and Zhao, Huangxuan and Qin, Wenhui and Zhou, Zhenghong and Wang, Xinggang and Wang, Wenping and Lai, Xiaochun and Zheng, Chuansheng and Shen, Dinggang and Cui, Zhiming},
-      journal={arXiv preprint arXiv:2405.10705},
-      year={2024}
+    @article{liu20263d,
+      title={3D vessel reconstruction from sparse-view dynamic DSA images via vessel probability guided attenuation learning},
+      author={Liu, Zhentao and Zhao, Huangxuan and Qin, Wenhui and Zhou, Zhenghong and Wang, Xinggang and Wang, Wenping and Lai, Xiaochun and Shen, Dinggang and Cui, Zhiming},
+      journal={Medical Image Analysis},
+      pages={104088},
+      year={2026},
+      publisher={Elsevier}
     }
