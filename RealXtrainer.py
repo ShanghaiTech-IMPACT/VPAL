@@ -79,6 +79,7 @@ class RealXtrainer():
         self.disable_fixtime = args.disable_fixtime
         self.fixtime = args.fixtime
         self.disable_3d = args.disable_3d
+        self.out_other = args.out_other
 
         # logs
         self.logs_path = os.path.join(args.output_path, args.name, 'logs')
